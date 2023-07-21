@@ -1,0 +1,168 @@
+{
+"dashboardMenu": [
+  {
+      "id": 1,
+      "img": "../my-app/src/images/sand1.png",
+      "title": "Sandwitch1",
+      "ingredients": [
+          "Bun with sesame",
+          "Beff Patty",
+          "Lettuce",
+          "caramelized onion",
+          ",Paprika",
+          "Barbecue Sauce"
+      ],
+      "price": 3,
+      "amount": 0,
+      "orders": []
+
+  },
+  {
+      "id": 2,
+      "img": "../my-app/src/images/sand2.png",
+      "title": "Sandwitch2",
+      "ingredients": [
+          "Bun with sesame",
+          "Beff Patty",
+          "Lettuce",
+          "caramelized onion",
+          ",Paprika",
+          "Barbecue Sauce"
+      ],
+      "price": 9,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 3,
+      "img": "../my-app/src/images/sand3.png",
+      "title": "Sandwitch3",
+      "ingredients": [
+          "Bun",
+          "Chicken Patty",
+          "Cheese",
+          "Beef Bacon",
+          "Lettuce",
+          ",Tomato",
+          "Mustard Sauce"
+      ],
+      "price": 5,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 4,
+      "img": "../my-app/src/images/sand4.png",
+      "title": "Sandwitch4",
+      "ingredients": [
+          "Bun",
+          "Beff Patty",
+          "Lettuce",
+          "onion",
+          "Tomato",
+          "Mayo Sauce,"
+      ],
+      "price": 2,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 5,
+      "img": "../my-app/src/images/sand5.png",
+      "title": "Sandwitch5",
+      "ingredients": [
+          "Bun with sesam",
+          "Smoked turkey",
+          "Lettuce",
+          "Tomato",
+          "Mayo Sauce,"
+      ],
+      "price": 5,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 6,
+      "img": "../my-app/src/images/sand6.png",
+      "title": "Sandwitch6",
+      "ingredients": [
+          "Bun with sesame",
+          "Beff Patty",
+          "Lettuce",
+          "caramelized onion",
+          ",Paprika",
+          "Barbecue Sauce"
+      ],
+      "price": 4,
+      "amount":0,
+   "orders":[]
+  },
+  {
+      "id": 7,
+      "img": "../my-app/src/images/sand7.png",
+      "title": "Sandwitch7",
+      "ingredients": [
+          "Bun with sesame",
+          "Beff Patty",
+          "Cheese",
+          "Lettuce",
+          "onion,",
+          "Tomato",
+          "Mayo Sauce",
+          "Ketshup Sauce"
+      ],
+      "price": 7,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 8,
+      "img": "../my-app/src/images/sand8.png",
+      "title": "Sandwitch8",
+      "ingredients": [
+          "Bun",
+          "Chicken Patty",
+          "Cheese",
+          "Beef Bacon",
+          "Lettuce",
+          ",Tomato",
+          "Mustard Sauce"
+      ],
+      "price": 4,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 9,
+      "img": "../my-app/src/images/sand9.png",
+      "title": "Sandwitch9",
+      "ingredients": [
+          "Bun with sesam",
+          "Smoked turkey",
+          "Lettuce",
+          "Tomato",
+          "Mayo Sauce,"
+      ],
+      "price": 3,
+      "amount":0,
+    "orders":[]
+  },
+  {
+      "id": 10,
+      "img": "../my-app/src/images/sand10.png",
+      "title": "Sandwitch10",
+      "ingredients": [
+          "Bun",
+          "Chicken Patty",
+          "Cheese",
+          "Beef Bacon",
+          "Lettuce",
+          ",Tomato",
+          "Mustard Sauce"
+      ],
+      "price": 6,
+      "amount":0,
+    "orders":[]
+  }
+]
+}
